@@ -1,3 +1,5 @@
+####### NOTE: this file takes a long time to run, it is not (necessarily) frozen!
+
 import math
 import random
 from mpl_toolkits.mplot3d import Axes3D
